@@ -1,0 +1,13 @@
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.exe.config
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.exe
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\bin\Debug\CreatingTextFile.pdb
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.AssemblyReference.cache
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.frmLab1.resources
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.FrmFileName.resources
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.Properties.Resources.resources
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.GenerateResource.cache
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.csproj.CoreCompileInputs.cache
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.exe
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.pdb
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.FrmRegistration.resources
+C:\Users\drean\source\repos\CreatingTextFile\CreatingTextFile\obj\Debug\CreatingTextFile.FrmStudentRecord.resources
