@@ -1,0 +1,10 @@
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\bin\Debug\PracticeCommit.exe.config
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\bin\Debug\PracticeCommit.exe
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\bin\Debug\PracticeCommit.pdb
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\obj\Debug\PracticeCommit.csproj.AssemblyReference.cache
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\obj\Debug\PracticeCommit.Form1.resources
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\obj\Debug\PracticeCommit.Properties.Resources.resources
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\obj\Debug\PracticeCommit.csproj.GenerateResource.cache
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\obj\Debug\PracticeCommit.csproj.CoreCompileInputs.cache
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\obj\Debug\PracticeCommit.exe
+C:\Users\drean\source\repos\PracticeCommit\PracticeCommit\obj\Debug\PracticeCommit.pdb
